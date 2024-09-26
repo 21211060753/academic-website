@@ -79,15 +79,8 @@ education:
 work:
   - position: Cadre
     company_name: Yanchang Oilfield Co., Ltd. West Oil Production Plant
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    date_start: 2002-07
+    date_end: 2008-04
   - position: Backend Software Engineer
     company_name: X
     company_url: ''
