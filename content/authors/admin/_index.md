@@ -77,8 +77,8 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Cadre
+    company_name: Yanchang Oilfield Co., Ltd. West Oil Production Plant
     company_url: ''
     company_logo: ''
     date_start: 2021-01-01
