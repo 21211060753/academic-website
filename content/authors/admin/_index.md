@@ -48,7 +48,7 @@ interests:
 education:
   - area: PhD Transportation
     institution: Chang'an University
-    major：Transportation
+    major: Transportation
     date_start: 2023-08
     date_end: Today
     button:
