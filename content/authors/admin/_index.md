@@ -177,4 +177,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+The current Chairman, Party Secretary, and Director of the Science and Technology Committee of Shaanxi Yanchang Petroleum Northwest Rubber Co., Ltd. He also serves as the Chairman of subordinate units such as Kaidi Rubber, Yanchang Rubber, and Yanchang Rubber (Thailand) Company. I have a Master's degree in Business Administration and am currently pursuing a PhD. I am a senior economist and senior political engineer, a special researcher at the China Enterprise Confederation, a graduate supervisor at Chang'an University and Xi'an Engineering University, and an outstanding entrepreneur in the 10th Shaanxi Province.
